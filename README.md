@@ -11,6 +11,6 @@
 3) Execute script: python start.py
 
 
-#WARNING!
+# WARNING!
 Dont delete any files, you will not play
 If it dont work, please report about it with code of Error and name of brench
